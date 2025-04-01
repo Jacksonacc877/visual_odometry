@@ -5,7 +5,6 @@ Script to download and set up SuperGlue for the visual odometry project.
 import os
 import sys
 import subprocess
-import argparse
 
 def main():
     print("Setting up SuperGlue for visual odometry...")

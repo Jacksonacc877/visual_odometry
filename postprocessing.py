@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import os
 
 def combine_videos(video1_path, video2_path, output_path, side_by_side=True):
     """
