@@ -4,7 +4,7 @@ Well, this project is about creating a visual odometry system using SuperGlue fo
 
 ![map](./assets/map.png)
 
-<video src="./assets/demo.mp4" controls></video>
+![demo](./assets/demo.gif)
 
 ## Usage
 ### Env
@@ -60,7 +60,7 @@ python vo.py ./frames
 Simply combine multiple videos together, see ./postprocessing.py.
 
 
-
+FULL video link: https://youtu.be/aoAj7tPptNM
 
 
 
